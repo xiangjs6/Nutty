@@ -41,7 +41,7 @@ Nutty 的目标就是回归本质：
 - 自由分屏（水平 / 垂直 / 拖拽重排）
 - 支持 UTF-8 / Emoji / Grapheme Cluster
 
-![multiwindow](/Users/xiangjingcai/Github/Nutty/start.png)
+![multiwindow](start.png)
 
 ---
 
@@ -50,7 +50,7 @@ Nutty 的目标就是回归本质：
 - 实时高亮匹配内容
 - 快速定位输出结果
 
-![search](/Users/xiangjingcai/Github/Nutty/search.png)
+![search](search.png)
 
 ---
 
@@ -64,13 +64,13 @@ Nutty 的目标就是回归本质：
 - 内置 SFTP
 - 端口转发（Port Tunnel）
 
-![host-search](/Users/xiangjingcai/Github/Nutty/host-search.png)
+![host-search](host-search.png)
 
-![ssh](/Users/xiangjingcai/Github/Nutty/ssh.png)
+![ssh](ssh.png)
 
-![sftp](/Users/xiangjingcai/Github/Nutty/sftp.png)
+![sftp](sftp.png)
 
-![tunnel](/Users/xiangjingcai/Github/Nutty/tunnel.png)
+![tunnel](tunnel.png)
 
 ---
 
@@ -83,7 +83,7 @@ Nutty 的目标就是回归本质：
 
 在复杂网络环境下依然非常实用。
 
-![zmodem](/Users/xiangjingcai/Github/Nutty/zmodem.png)
+![zmodem](zmodem.png)
 
 ---
 
@@ -93,9 +93,9 @@ Nutty 的目标就是回归本质：
 - 字体配置
 - 历史记录设置
 
-![config](/Users/xiangjingcai/Github/Nutty/config.png)
+![config](config.png)
 
-![theme](/Users/xiangjingcai/Github/Nutty/theme.png)
+![theme](theme.png)
 
 ---
 
@@ -110,11 +110,11 @@ $ bash benchmark.sh nowrap
 
 - wrap（自动换行）
 
-![benchmark-wrap](/Users/xiangjingcai/Github/Nutty/benchmark-wrap.png)
+![benchmark-wrap](benchmark-wrap.png)
 
 - nowrap（不换行）
 
-![benchmark-nowrap](/Users/xiangjingcai/Github/Nutty/benchmark-nowrap.png)
+![benchmark-nowrap](benchmark-nowrap.png)
 
 ## keyboard shortcuts
 
