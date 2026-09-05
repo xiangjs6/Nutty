@@ -68,7 +68,9 @@ Nutty 是一个使用 **C / C++** 构建的原生终端应用，支持 macOS、W
 - Sixel 图片随终端内容一起滚动。
 - **Zmodem**：内置 `rz` / `sz` 文件传输，支持多层 SSH 跳板场景。
 
-![Nutty：Sixel 图片与本地终端并排显示](sixel.png)
+![Nutty：Sixel 终端图片预览](sixel.png)
+
+![Nutty：Zmodem 文件选择框与完整终端窗口](zmodem.png)
 
 ## 背景透明度
 
